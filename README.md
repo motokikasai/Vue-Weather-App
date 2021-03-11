@@ -4,4 +4,8 @@
 
 <h1 align="center">Weather App w/ Vue</h1>
 
+<p>
+  <img src="./src/assets/Thumbnail-readme-vue-weather-app.png">
+</p>
+
 <a href="https://vue-weather-app-nu.vercel.app/" target="_blank"><h3 align="center">LIVE</h3></a>
