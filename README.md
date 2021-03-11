@@ -4,4 +4,4 @@
 
 <h1 align="center">Weather App w/ Vue</h1>
 
-<a href="https://github-visualizer.motokikasai.vercel.app/" target="_blank"><h3 align="center">LIVE</h3></a>
+<a href="https://vue-weather-app-nu.vercel.app/" target="_blank"><h3 align="center">LIVE</h3></a>
