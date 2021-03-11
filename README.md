@@ -1,24 +1,7 @@
-# vue-weather-app
+<p align="center">
+  <img src="./src/assets/logo-tpl-html.png" height="70px" width="70px"><img src="./src/assets/logo-tpl-css.png" height="70px" width="70px"><img src="./src/assets/logo-tpl-js.png" height="70px" width="70px"><img src="./src/assets/logo-tpl-vue.png" height="70px" width="70px">
+</p>
 
-## Project setup
-```
-npm install
-```
+<h1 align="center">Weather App w/ Vue</h1>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<a href="https://github-visualizer.motokikasai.vercel.app/" target="_blank"><h3 align="center">LIVE</h3></a>
